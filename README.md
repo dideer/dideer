@@ -2,7 +2,7 @@
 
 Passionate software engineer crafting efficient solutions, fascinated by tech's potential.
 
-🌱 I’m currently learning javascript  and Algorithms
+🌱 I’m currently learning javascript, Python, JAVA  
 
 💬 Ask me about webdevelopment
 
